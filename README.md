@@ -3,3 +3,4 @@
 
 가이드 라인
 ~~~~~~~~~~~작성 예정~~~~~~~~~~~~
+https://www.notion.so/end-to-end-35c0f97d11f380c5b1f2e00060e64909?source=copy_link
